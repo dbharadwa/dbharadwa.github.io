@@ -12,3 +12,9 @@ img {
     text-align: center;
     margin: auto;
 }
+
+#experience {
+    margin: auto;
+    position: relative;
+    left: 200px;
+}
